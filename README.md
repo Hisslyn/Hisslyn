@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Azat (you can also call me by my git-nickname Hiss or Hisslyn)
+- 👋 Hi, I’m Azat (you can also call me by my git-nickname Hiss/Hisslyn)
 - 👀 I’m interested in DevOps, Python backend etc, Digital Marketing, Project & Operations Management etc.
 - 🌱 I’m currently learning Python, grasping SQL Universe and so much more!!!!
 - 💞️ I’m looking to collaborate on any project with fair opportunities and compensation(might also be considered non-financial ones)
